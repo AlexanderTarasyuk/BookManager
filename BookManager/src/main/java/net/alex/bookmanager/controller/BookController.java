@@ -1,7 +1,7 @@
-package net.proselyte.bookmanager.controller;
+package net.alex.bookmanager.controller;
 
-import net.proselyte.bookmanager.model.Book;
-import net.proselyte.bookmanager.service.BookService;
+import net.alex.bookmanager.model.Book;
+import net.alex.bookmanager.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

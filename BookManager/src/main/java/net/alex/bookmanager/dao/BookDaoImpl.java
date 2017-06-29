@@ -1,6 +1,6 @@
-package net.proselyte.bookmanager.dao;
+package net.alex.bookmanager.dao;
 
-import net.proselyte.bookmanager.model.Book;
+import net.alex.bookmanager.model.Book;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.slf4j.Logger;

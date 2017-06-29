@@ -1,10 +1,10 @@
-package net.proselyte.bookmanager.dao;
+package net.alex.bookmanager.service;
 
-import net.proselyte.bookmanager.model.Book;
+import net.alex.bookmanager.model.Book;
 
 import java.util.List;
 
-public interface BookDao {
+public interface BookService {
     public void addBook(Book book);
 
     public void updateBook(Book book);
